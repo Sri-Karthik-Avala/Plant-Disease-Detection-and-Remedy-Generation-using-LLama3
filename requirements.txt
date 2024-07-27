@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+Pillow
+numpy
+langchain
+bs4
+requests
+unstructured
